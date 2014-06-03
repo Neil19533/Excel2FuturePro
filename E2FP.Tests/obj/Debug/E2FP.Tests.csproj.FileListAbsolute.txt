@@ -1,0 +1,11 @@
+C:\Users\Neil.E\Documents\Visual Studio 2012\Projects\Excel2FuturePro\E2FP.Tests\obj\Debug\E2FP.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Neil.E\Documents\Visual Studio 2012\Projects\Excel2FuturePro\E2FP.Tests\bin\Debug\E2FP.Tests.dll
+C:\Users\Neil.E\Documents\Visual Studio 2012\Projects\Excel2FuturePro\E2FP.Tests\bin\Debug\E2FP.Tests.pdb
+C:\Users\Neil.E\Documents\Visual Studio 2012\Projects\Excel2FuturePro\E2FP.Tests\bin\Debug\E2FP.CSVLoader.dll
+C:\Users\Neil.E\Documents\Visual Studio 2012\Projects\Excel2FuturePro\E2FP.Tests\bin\Debug\E2FP.Tpl.dll
+C:\Users\Neil.E\Documents\Visual Studio 2012\Projects\Excel2FuturePro\E2FP.Tests\bin\Debug\Excel2FuturePro.exe
+C:\Users\Neil.E\Documents\Visual Studio 2012\Projects\Excel2FuturePro\E2FP.Tests\bin\Debug\E2FP.CSVLoader.pdb
+C:\Users\Neil.E\Documents\Visual Studio 2012\Projects\Excel2FuturePro\E2FP.Tests\bin\Debug\E2FP.Tpl.pdb
+C:\Users\Neil.E\Documents\Visual Studio 2012\Projects\Excel2FuturePro\E2FP.Tests\bin\Debug\Excel2FuturePro.pdb
+C:\Users\Neil.E\Documents\Visual Studio 2012\Projects\Excel2FuturePro\E2FP.Tests\obj\Debug\E2FP.Tests.dll
+C:\Users\Neil.E\Documents\Visual Studio 2012\Projects\Excel2FuturePro\E2FP.Tests\obj\Debug\E2FP.Tests.pdb

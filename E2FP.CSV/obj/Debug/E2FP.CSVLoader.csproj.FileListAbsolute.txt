@@ -1,0 +1,5 @@
+C:\Users\Neil.E\Documents\Visual Studio 2012\Projects\Excel2FuturePro\E2FP.CSV\bin\Debug\E2FP.CSV.dll
+C:\Users\Neil.E\Documents\Visual Studio 2012\Projects\Excel2FuturePro\E2FP.CSV\bin\Debug\E2FP.CSV.pdb
+C:\Users\Neil.E\Documents\Visual Studio 2012\Projects\Excel2FuturePro\E2FP.CSV\obj\Debug\E2FP.CSVLoader.csprojResolveAssemblyReference.cache
+C:\Users\Neil.E\Documents\Visual Studio 2012\Projects\Excel2FuturePro\E2FP.CSV\obj\Debug\E2FP.CSV.dll
+C:\Users\Neil.E\Documents\Visual Studio 2012\Projects\Excel2FuturePro\E2FP.CSV\obj\Debug\E2FP.CSV.pdb
